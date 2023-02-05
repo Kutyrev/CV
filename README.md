@@ -1,7 +1,35 @@
-# CV
-Dmitry Kutyrev CV
+# Dmitry Kutyrev
+***Junior Android dev / 1C techlead***
 
-## Projects
+Good day! :wave:
+
+My name is Dmitry Kutyrev. I have 15 years of experience and an expert/techlead qualification in 1C framework. I have been involved in more than 10 large successful projects for the implementation of 1С information systems in various automation circuits and in companies of different domains, including international companies. I have some experience in Java/Kotlin Android, Java desktop, SalesForce development.
+I have 7 years of experience as a techlead in 1C teams. Worked with different kinds of methodologies: Agile, ITIL, waterfall projects.
+
+[LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD)
+
+## 📋 Education
+
+- Bachelor’s degree in Informatics and Computer Engineering, Siberian State University of Telecommunications and Informatics, 2010
+- Specialist’s degree in Marketing, Academy of Economics and Management, 2007
+
+## 📜 Certifications & courses
+
+- Certified ICAgile Professional; 
+- ICAgile Team Facilitation;
+- ICAgile Product Ownership;
+- ITIL 3 Foundation;
+- Microsoft Certified Technology Specialist (MCTS). SQL Server® 2008, Implementation and Maintenance;
+- MCSA: SQL Server 2012;
+- Specialization «Object Oriented Java Programming: Data Structures and Beyond» by UCSD;
+- «Management of innovative projects. PMI Methodology and Fundamentals of Project Management Information Systems» by International School of Business;
+- Android development program by ELDF.
+
+## 🗿 Languages
+
+Russian (Native), English (Intermediate)
+
+## 🔨 Projects
 ### Android projects
 * * *
 
