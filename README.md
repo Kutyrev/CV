@@ -1,19 +1,9 @@
 # Dmitry Kutyrev
 ***Junior Android dev / 1C techlead***
 
-<img src="photo.png"  width="150" height="150" align="left">
+<img src="photo.png" width="150" height="150" align="left|top">
 
 Good day! 👋
-
-
-
-
-
-
-
-
-
-
 
 My name is Dmitry Kutyrev. I have 15 years of experience and an expert/techlead qualification in 1C framework. I have been involved in more than 10 large successful projects for the implementation of 1С information systems in various automation circuits and in companies of different domains, including international companies. I have some experience in Java/Kotlin Android, Java desktop, SalesForce development.
 I have 7 years of experience as a techlead in 1C teams. Worked with different kinds of methodologies: Agile, ITIL, waterfall projects.
@@ -24,7 +14,12 @@ Fast links:
 1. [Education](#-education)
 2. [Certifications & courses](#-certifications--courses)
 3. [Languages](#-languages)
-4. [Projects](#-projects)
+4. [Workplaces](#-workplaces--internships)
+5. [Projects](#-projects)
+    - [Android projects](#android-projects)
+    - [Java projects](#java-projects)
+    - [DevOps projects](#devops-projects)
+    - [1C projects](#1c-projects)
   
 ## 📋 Education
 
@@ -45,7 +40,14 @@ Fast links:
 
 ## 🗿 Languages
 
-Russian (Native), English (Intermediate)
+Russian (Native)<br>
+English (Intermediate)<br>
+Romanian (Basic)
+
+## 🚀 Workplaces & Internships
+**Endava** (09/2022 - 12/2022), IT, Chisinau **Android development intern**<br>
+**RusHydro IT Service** (05/2017 – 08/2022), Inhouse IT Integrator, Moscow **Tech architect, team lead**<br>
+**VDGB** (08/2007 – 04/2017), IT Integrator, Moscow **Senior 1C developer, teamlead**
 
 ## 🔨 Projects
 ### Android projects
