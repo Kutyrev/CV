@@ -5,6 +5,16 @@
 
 Good day! 👋
 
+
+
+
+
+
+
+
+
+
+
 My name is Dmitry Kutyrev. I have 15 years of experience and an expert/techlead qualification in 1C framework. I have been involved in more than 10 large successful projects for the implementation of 1С information systems in various automation circuits and in companies of different domains, including international companies. I have some experience in Java/Kotlin Android, Java desktop, SalesForce development.
 I have 7 years of experience as a techlead in 1C teams. Worked with different kinds of methodologies: Agile, ITIL, waterfall projects.
 
