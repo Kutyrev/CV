@@ -8,6 +8,13 @@ I have 7 years of experience as a techlead in 1C teams. Worked with different ki
 
 [LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD)
 
+Fast links |
+------------- |
+ |1. [Education](#-education) |
+ |2. [Certifications & courses](#-certifications--courses) |
+ |3. [Languages](#-languages) |
+ |4. [Projects](#-projects) |
+  
 ## 📋 Education
 
 - Bachelor’s degree in Informatics and Computer Engineering, Siberian State University of Telecommunications and Informatics, 2010
