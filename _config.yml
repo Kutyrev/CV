@@ -23,7 +23,7 @@ url: https://kutyrev.github.io
 baseurl: /CV/
 
 title: Dmitry Kutyrev's CV
-description: 🎸 ![Photo](photo.png)
+description: 💻🎸
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
