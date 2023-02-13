@@ -45,7 +45,7 @@ English (Intermediate)<br>
 Romanian (Basic)
 
 ## 🚀 Workplaces & Internships
-**Endava** (09/2022 - 12/2022), IT, Chisinau **Android development intern**<br>
+**Endava** (09/2022 - 12/2022), IT Solutions, Chisinau **Android development intern**<br>
 **RusHydro IT Service** (05/2017 – 08/2022), Inhouse IT Integrator, Moscow **Tech architect, team lead**<br>
 **VDGB** (08/2007 – 04/2017), IT Integrator, Moscow **Senior 1C developer, teamlead**
 
@@ -53,7 +53,7 @@ Romanian (Basic)
 ### Android projects
 * * *
 
-#### RusHydro OCO (March 2021–July 2021). Developer, Mobile application for stocktaking.
+#### RusHydro OCO (March 2021–July 2021). Developer. Mobile application for stocktaking.
 
 Development of a mobile application with the ability to scan barcodes on property and transfer this information to a corporate accounting system.
 
@@ -61,6 +61,15 @@ Development of a mobile application with the ability to scan barcodes on propert
 
 Responsibilities and achievements: 
 - Full implementation from idea to development.
+
+#### Rushydro IT Services (August 2021 – December 2021). Developer. Mobile application integrated with Legally significant electronic document management system.
+
+The functionality of sighting and movement of a document through the processes.
+
+*Stack: Kotlin, Android JetPack, Retrofit, JUnit*
+
+Responsibilities and achievements: 
+- Developer.
 
 ### Java projects
 * * *
