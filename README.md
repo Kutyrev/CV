@@ -23,7 +23,7 @@ Fast links:
   
 ## 📋 Education
 
-- Bachelor’s degree in Informatics and Computer Engineering, Siberian State University of Telecommunications and Informatics, 2010
+- Bachelor’s degree in Informatics and Computer Engineering, Siberian State University of Telecommunications and Informatics, 2019
 - Specialist’s degree in Marketing, Academy of Economics and Management, 2007
 
 ## 📜 Certifications & courses
