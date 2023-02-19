@@ -5,10 +5,10 @@
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. I have 15 years of experience and an expert/techlead qualification in 1C framework. I have been involved in more than 10 large successful projects for the implementation of 1С information systems in various automation circuits and in companies of different domains, including international companies. I have some experience in Java/Kotlin Android, Java desktop, SalesForce development.
-I have 7 years of experience as a techlead in 1C teams. Worked with different kinds of methodologies: Agile, ITIL, waterfall projects.
+My name is Dmitry Kutyrev. **Right now I'm looking for a junior android developer opportunity**. I have experience with the following stack: Kotlin, Views/Compose, Room, Hilt, Mockk, Retrofit, ML Kit (barcode scanning API), Firestore.
+I am qualified as an expert / technical lead in the 1C environment and have some development experience in Java / Kotlin Android, Java desktop, SalesForce. Participated in more than 10 large successful projects for the implementation of 1C information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD)
+[LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
 
 Fast links:
 1. [Education](#-education)
