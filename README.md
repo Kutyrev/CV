@@ -5,7 +5,7 @@
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. **Right now I'm looking for a junior android developer opportunity**. I have experience with the following stack: Kotlin, Views/Compose, Room, Hilt, Mockk, Retrofit, ML Kit (barcode scanning API), Firestore.
+My name is Dmitry Kutyrev. I have experience with the following stack: Kotlin, Views/Compose, Room, Hilt, Mockk, Retrofit, ML Kit (barcode scanning API), Firestore.
 I am qualified as an expert / technical lead in the 1C environment and have some development experience in Java / Kotlin Android, Java desktop, SalesForce. Participated in more than 10 large successful projects for the implementation of 1C information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
