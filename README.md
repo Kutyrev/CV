@@ -5,7 +5,7 @@
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. I am qualified as a Salesforce developer and as an expert / technical lead in the 1C environment also I have some development experience in Java / Kotlin Android, Java desktop. Participated in more than 10 large successful projects for the implementation of ERP/CRM information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
+My name is Dmitry Kutyrev. I am qualified as a Salesforce developer and as an expert / technical lead in the 1C environment. Also, I have some development experience in Java / Kotlin Android, Java desktop. Participated in more than 10 large successful projects for the implementation of ERP/CRM information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [SF profile](https://www.salesforce.com/trailblazer/kutyrevdd) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
 
@@ -15,10 +15,10 @@ Fast links:
 3. [Languages](#-languages)
 4. [Workplaces](#-workplaces--internships)
 5. [Projects](#-projects)
+    - [1C projects](#1c-projects)
     - [Android projects](#android-projects)
     - [Java projects](#java-projects)
     - [DevOps projects](#devops-projects)
-    - [1C projects](#1c-projects)
   
 ## 📋 Education
 
@@ -27,12 +27,11 @@ Fast links:
 
 ## 📜 Certifications & courses
 
-- Certified ICAgile Professional; 
-- ICAgile Team Facilitation;
-- ICAgile Product Ownership;
+- **Salesforce:** Platform developer I, Platform developer II, Javascript developer I.
+- **Agile:** Certified ICAgile Professional, ICAgile Team Facilitation, ICAgile Product Ownership;
+- **SQL:** Microsoft Certified Technology Specialist (MCTS). SQL Server® 2008, Implementation and Maintenance, MCSA: SQL Server 2012
+- A lot of 1C framework certs. Including 1C: tech expert.
 - ITIL 3 Foundation;
-- Microsoft Certified Technology Specialist (MCTS). SQL Server® 2008, Implementation and Maintenance;
-- MCSA: SQL Server 2012;
 - Specialization «Object Oriented Java Programming: Data Structures and Beyond» by UCSD;
 - «Management of innovative projects. PMI Methodology and Fundamentals of Project Management Information Systems» by International School of Business;
 - Android development program by ELDF.
