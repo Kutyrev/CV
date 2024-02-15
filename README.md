@@ -1,14 +1,13 @@
 # Dmitry Kutyrev
-***Junior Android dev / 1C techlead***
+***Salesforce dev / 1C techlead***
 
 <img src="photo.png" width="150" height="150" align="left|top">
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. I have experience with the following stack: Kotlin, Views/Compose, Room, Hilt, Mockk, Retrofit, ML Kit (barcode scanning API), Firestore.
-I am qualified as an expert / technical lead in the 1C environment and have some development experience in Java / Kotlin Android, Java desktop, SalesForce. Participated in more than 10 large successful projects for the implementation of 1C information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
+My name is Dmitry Kutyrev. I am qualified as a Salesforce developer and as an expert / technical lead in the 1C environment also I have some development experience in Java / Kotlin Android, Java desktop. Participated in more than 10 large successful projects for the implementation of ERP/CRM information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
+[LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [SF profile](https://www.salesforce.com/trailblazer/kutyrevdd) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
 
 Fast links:
 1. [Education](#-education)
@@ -41,8 +40,8 @@ Fast links:
 ## 🗿 Languages
 
 Russian (Native)<br>
-English (Intermediate)<br>
-Romanian (Basic)
+English (B1)<br>
+Romanian (A1)
 
 ## 🚀 Workplaces & Internships
 **Endava** (09/2022 - 12/2022), IT Solutions, Chisinau **Android development intern**<br>
@@ -50,52 +49,6 @@ Romanian (Basic)
 **VDGB** (08/2007 – 04/2017), IT Integrator, Moscow **Senior 1C developer, teamlead**
 
 ## 🔨 Projects
-### Android projects
-* * *
-
-#### RusHydro OCO (March 2021–July 2021). Developer. Mobile application for stocktaking.
-
-Development of a mobile application with the ability to scan barcodes on property and transfer this information to a corporate accounting system.
-
-*Stack: Kotlin, Android JetPack, Retrofit, Google Cloud Vision, JUnit*
-
-Responsibilities and achievements: 
-- Full implementation from idea to development.
-
-#### Rushydro IT Services (August 2021 – December 2021). Developer. Mobile application integrated with Legally significant electronic document management system.
-
-The functionality of sighting and movement of a document through the processes.
-
-*Stack: Kotlin, Android JetPack, Retrofit, JUnit*
-
-Responsibilities and achievements: 
-- Developer.
-
-### Java projects
-* * *
-
-#### Rushydro IT Services (in house dev) (July 2018 – October 2018). Developer. Notification system for failures in the operation of accounting systems.
-
-Development of a little monitoring solution. Checks the availability of services (accounting information systems) using: ping check, webservice connect check, COM+ method call check, network catalog exists check. Notifies you of accidents by email.
-
-*Stack: Java 8, Java FX GUI*
-
-Responsibilities and achievements: 
-- Full implementation from idea to development.
-
-### DevOps projects
-* * *
-
-#### RusHydro IT Services (in house dev) (June 2020 – August 2020). DevOps engineer. Development of continuous integration and delivery pipelines.
-
-Automation of existing processes of continuous delivery, integration, static code tests and visualization of these processes.
-
-*Stack: 1Script, command shell scripts, Jenkins, Vanessa Runner, SonarQube, Allure, MS SQL*
-
-Responsibilities and achievements: 
-- Software setup;
-- Scripts development.
-
 ### 1C projects
 * * *
 
@@ -232,3 +185,49 @@ Responsibilities and achievements:
 - Analyst by blocks: warehouse accounting, vehicle accounting;
 - Developer by blocks: management reporting, materials accounting;
 - Also: Setting up data exchange between warehouse and tradehouse.
+
+### Android projects
+* * *
+
+#### RusHydro OCO (March 2021–July 2021). Developer. Mobile application for stocktaking.
+
+Development of a mobile application with the ability to scan barcodes on property and transfer this information to a corporate accounting system.
+
+*Stack: Kotlin, Android JetPack, Retrofit, Google Cloud Vision, JUnit*
+
+Responsibilities and achievements: 
+- Full implementation from idea to development.
+
+#### Rushydro IT Services (August 2021 – December 2021). Developer. Mobile application integrated with Legally significant electronic document management system.
+
+The functionality of sighting and movement of a document through the processes.
+
+*Stack: Kotlin, Android JetPack, Retrofit, JUnit*
+
+Responsibilities and achievements: 
+- Developer.
+
+### Java projects
+* * *
+
+#### Rushydro IT Services (in house dev) (July 2018 – October 2018). Developer. Notification system for failures in the operation of accounting systems.
+
+Development of a little monitoring solution. Checks the availability of services (accounting information systems) using: ping check, webservice connect check, COM+ method call check, network catalog exists check. Notifies you of accidents by email.
+
+*Stack: Java 8, Java FX GUI*
+
+Responsibilities and achievements: 
+- Full implementation from idea to development.
+
+### DevOps projects
+* * *
+
+#### RusHydro IT Services (in house dev) (June 2020 – August 2020). DevOps engineer. Development of continuous integration and delivery pipelines.
+
+Automation of existing processes of continuous delivery, integration, static code tests and visualization of these processes.
+
+*Stack: 1Script, command shell scripts, Jenkins, Vanessa Runner, SonarQube, Allure, MS SQL*
+
+Responsibilities and achievements: 
+- Software setup;
+- Scripts development.
