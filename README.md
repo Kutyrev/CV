@@ -15,6 +15,7 @@ Fast links:
 3. [Languages](#-languages)
 4. [Workplaces](#-workplaces--internships)
 5. [Projects](#-projects)
+    - [Salesforce projects](#sf-projects)
     - [1C projects](#1c-projects)
     - [Android projects](#android-projects)
     - [Java projects](#java-projects)
@@ -27,10 +28,10 @@ Fast links:
 
 ## 📜 Certifications & courses
 
-- **Salesforce:** Platform developer I, Platform developer II, Javascript developer I.
+- **Salesforce:** Platform developer I, Platform developer II, Javascript developer I;
 - **Agile:** Certified ICAgile Professional, ICAgile Team Facilitation, ICAgile Product Ownership;
-- **SQL:** Microsoft Certified Technology Specialist (MCTS). SQL Server® 2008, Implementation and Maintenance, MCSA: SQL Server 2012
-- A lot of 1C framework certs. Including 1C: tech expert.
+- **SQL:** Microsoft Certified Technology Specialist (MCTS). SQL Server® 2008, Implementation and Maintenance, MCSA: SQL Server 2012;
+- A lot of 1C framework certs. Including 1C: tech expert;
 - ITIL 3 Foundation;
 - Specialization «Object Oriented Java Programming: Data Structures and Beyond» by UCSD;
 - «Management of innovative projects. PMI Methodology and Fundamentals of Project Management Information Systems» by International School of Business;
@@ -43,11 +44,26 @@ English (B1)<br>
 Romanian (A1)
 
 ## 🚀 Workplaces & Internships
+**Rapid** (09/2022 - 02/2024), Logistic, Istanbul, **Expert software developer (Salesforce)**<br>
 **Endava** (09/2022 - 12/2022), IT Solutions, Chisinau **Android development intern**<br>
 **RusHydro IT Service** (05/2017 – 08/2022), Inhouse IT Integrator, Moscow **Tech architect, team lead**<br>
 **VDGB** (08/2007 – 04/2017), IT Integrator, Moscow **Senior 1C developer, teamlead**
 
 ## 🔨 Projects
+### SF projects
+* * *
+#### Rapid (September 2022 – February 2024). Main developer. Development of a logistic system based on the SF platform.
+
+In-house development of a new logistic solution based on the SF platform.
+Started as a freelancer, from 03/2022 continued to work as a full-time employee.
+
+*Stack: SF (LWC, Apex), AWS (Flow, Lambda (Python), cloud DB), Heroku.
+
+Responsibilities and achievements: 
+- Development of the core fuctionality of the new system;
+- Design and implementation of integration and CI/CD flows;
+- Participated in the development of the governance framework (design standarts, release managment).
+
 ### 1C projects
 * * *
 
