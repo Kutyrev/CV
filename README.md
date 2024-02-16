@@ -44,7 +44,7 @@ English (B1)<br>
 Romanian (A1)
 
 ## 🚀 Workplaces & Internships
-**Rapid** (09/2022 - 02/2024), Logistic, Istanbul, **Expert software developer (Salesforce)**<br>
+**Rapid** (09/2022 - 02/2024), Logistics, Istanbul, **Expert software developer (Salesforce)**<br>
 **Endava** (09/2022 - 12/2022), IT Solutions, Chisinau **Android development intern**<br>
 **RusHydro IT Service** (05/2017 – 08/2022), Inhouse IT Integrator, Moscow **Tech architect, team lead**<br>
 **VDGB** (08/2007 – 04/2017), IT Integrator, Moscow **Senior 1C developer, teamlead**
