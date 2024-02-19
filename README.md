@@ -5,7 +5,7 @@
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. I am qualified as a Salesforce developer and as an expert / technical lead in the 1C environment. Also, I have some development experience in Java / Kotlin Android, Java desktop. Participated in more than 10 large successful projects for the implementation of ERP/CRM information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
+My name is Dmitry Kutyrev. I am qualified as a Salesforce developer and an expert / technical lead in the 1C environment. Also, I have some development experience in Java / Kotlin Android, Java desktop. Participated in more than 10 large successful projects for the implementation of ERP/CRM information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [SF profile](https://www.salesforce.com/trailblazer/kutyrevdd) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
 
@@ -52,10 +52,10 @@ Romanian (A1)
 ## 🔨 Projects
 ### SF projects
 * * *
-#### Rapid (September 2022 – February 2024). Main developer. Development of a logistic system based on the SF platform.
+#### Rapid (September 2022 – February 2024). Primary developer. Development of a logistic system based on the SF platform.
 
 In-house development of a new logistic solution based on the SF platform.
-Started as a freelancer, from 03/2022 continued to work as a full-time employee.
+Started as a freelancer, from 03/2023 continued to work as a full-time employee.
 
 *Stack: SF (LWC, Apex), AWS (Flow, Lambda (Python), cloud DB), Heroku.
 
