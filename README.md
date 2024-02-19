@@ -52,9 +52,9 @@ Romanian (A1)
 ## 🔨 Projects
 ### SF projects
 * * *
-#### Rapid (September 2022 – February 2024). Primary developer. Development of a logistic system based on the SF platform.
+#### Rapid (September 2022 – February 2024). Primary developer. Development of a logistics system based on the SF platform.
 
-In-house development of a new logistic solution based on the SF platform.
+In-house development of a new logistics solution based on the SF platform.
 Started as a freelancer, from 03/2023 continued to work as a full-time employee.
 
 *Stack: SF (LWC, Apex), AWS (Flow, Lambda (Python), cloud DB), Heroku.
