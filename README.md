@@ -41,7 +41,7 @@ Fast links:
 
 Russian (Native)<br>
 English (B1)<br>
-Romanian (A1)
+Romanian (A2)
 
 ## 🚀 Workplaces & Internships
 **Rapid** (09/2022 - 02/2024), Logistics, Istanbul, **Expert software developer (Salesforce)**<br>
