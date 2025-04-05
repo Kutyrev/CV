@@ -5,7 +5,10 @@
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. I am qualified as a Salesforce developer and an expert / technical lead in the 1C environment. Also, I have some development experience in Java / Kotlin Android, Java desktop. Participated in more than 10 large successful projects for the implementation of ERP/CRM information systems in various automation schemes and in companies of various profiles, including international ones, 7 years of experience as a technical lead in 1C teams. Worked on different methodologies: Agile, ITIL, waterfall projects. I am currently based in Chisinau, but I am also interested in remote opportunities.
+My name is Dmitry Kutyrev. I am a certified expert and technical lead specializing in the 1C platform, with over 8 years of experience leading development teams. In addition to 1C, I have hands-on experience with Kotlin Android and Salesforce development. I’ve successfully contributed to more than 10 large-scale ERP and CRM implementation projects across various industries, including international companies, using diverse automation models. As a certified team lead, I have managed teams using Agile, ITIL, and Waterfall methodologies. I’m skilled in setting up development processes, team management, and driving technical strategy.
+I see myself as a Head of Development or Team Lead, focused on delivering robust, scalable solutions.
+
+Currently based in Chișinău.
 
 [LinkedIn](https://www.linkedin.com/in/dmitry-kutyrev/) / [GitHub](https://github.com/Kutyrev/) / [SF profile](https://www.salesforce.com/trailblazer/kutyrevdd) / [Google dev profile](https://developers.google.com/profile/u/KutyrevDD) /  proxium ( @ ) gmail.com
 
