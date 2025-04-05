@@ -1,5 +1,5 @@
 # Dmitry Kutyrev
-***Salesforce dev / 1C techlead***
+***Head of development/1C techlead***
 
 <img src="photo.png" width="150" height="150" align="left|top">
 
