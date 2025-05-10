@@ -47,6 +47,7 @@ English (B1)<br>
 Romanian (A2)
 
 ## 🚀 Workplaces & Internships
+**Microinvest Technology** (03/2024 - now), Finance, Chisinau, **Digital team Team lead (Web, Mobile, 1C)**<br>
 **Rapid** (09/2022 - 02/2024), Logistics, Istanbul, **Expert software developer (Salesforce)**<br>
 **Endava** (09/2022 - 12/2022), IT Solutions, Chisinau **Android development intern**<br>
 **RusHydro IT Service** (05/2017 – 08/2022), Inhouse IT Integrator, Moscow **Tech architect, team lead**<br>
