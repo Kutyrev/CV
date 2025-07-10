@@ -1,12 +1,20 @@
 # Dmitry Kutyrev
-***Head of development/1C techlead***
+***Teamlead | Technical architect***
 
 <img src="photo.png" width="150" height="150" align="left|top">
 
 Good day! 👋
 
-My name is Dmitry Kutyrev. I am a certified expert and technical lead specializing in the 1C platform, with over 8 years of experience leading development teams. In addition to 1C, I have hands-on experience with Kotlin Android and Salesforce development. I’ve successfully contributed to more than 10 large-scale ERP and CRM implementation projects across various industries, including international companies, using diverse automation models. As a certified team lead, I have managed teams using Agile, ITIL, and Waterfall methodologies. I’m skilled in setting up development processes, team management, and driving technical strategy.
-I see myself as a Head of Development or Team Lead, focused on delivering robust, scalable solutions.
+My name is Dmitry Kutyrev. I have extensive experience in business process automation across various industries — including energy, logistics, and finance — working both on the vendor and client sides.
+
+I’ve worked in international, distributed teams, and have led development groups of up to 15 engineers, including external contractors.
+I’ve been responsible for setting up development and delivery processes using a range of methodologies (Scrum, ITIL, Waterfall).
+
+The majority of my experience lies in hands-on leadership roles — acting as a team lead and technical architect involved directly in product development.
+
+As a developer, I’ve worked with 1C, Salesforce, and Android (Kotlin) tech stacks.
+
+As a teamlead, I’ve worked with 1C, Web, mobile teams.
 
 Currently based in Chișinău.
 
